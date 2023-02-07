@@ -1,16 +1,19 @@
 <h1>Hello there, I'm Vinicius Lamberti! 🖖</h1>
 <div>
   <a href="https://github.com/vinicius-lamberti">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinicius-lamberti&count_private=true&show_icons=true&theme=great-gatsby">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-lamberti&layout=compact&langs_count=16&theme=great-gatsby">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vinicius-lamberti&count_private=true&show_icons=true&theme=great-gatsby">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-lamberti&layout=compact&langs_count=16&theme=great-gatsby">
 </div>
 <div>
 	<h3>💬 Ask me about:</h3>
 	<img align="center" height="30" width="40" alt="linux-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+	<img align="center" height="30" width="40" alt="bash-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+	<img align="center" height="30" width="40" alt="git-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" height="30" width="40" alt="html-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   <img align="center" height="30" width="40" alt="css-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
   <img align="center" height="30" width="40" alt="js-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img align="center" height="30" width="40" alt="react-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+	<img align="center" height="30" width="40" alt="redux-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
   <img align="center" height="30" width="40" alt="jest-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
 </div>
 <div>
